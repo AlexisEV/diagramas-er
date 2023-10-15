@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-15T08:58:40.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="waWCqlKI2vsHQUVlhIag" version="22.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-15T09:12:24.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RrQmBNB6F-veTaRYfEhc" version="22.0.4" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="3290" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -61,8 +61,8 @@
         <mxCell id="H4giXLRnW2gy8_b_BsiK-24" value="UBICACION" style="swimlane;whiteSpace=wrap;html=1;perimeterSpacing=7;strokeWidth=2;swimlaneLine=0;glass=0;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-30" y="190" width="110" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="H4giXLRnW2gy8_b_BsiK-25" value="#id&lt;br&gt;*numero&lt;br&gt;*calle&lt;br&gt;*comuna&lt;br&gt;*ciudad" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="H4giXLRnW2gy8_b_BsiK-24" vertex="1">
-          <mxGeometry x="10" y="20" width="70" height="90" as="geometry" />
+        <mxCell id="H4giXLRnW2gy8_b_BsiK-25" value="#id&lt;br&gt;*numero&lt;br&gt;*calle&lt;br&gt;*ciudad" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="H4giXLRnW2gy8_b_BsiK-24" vertex="1">
+          <mxGeometry x="10" y="30" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H4giXLRnW2gy8_b_BsiK-26" value="USUARIO" style="swimlane;whiteSpace=wrap;html=1;perimeterSpacing=7;strokeWidth=2;swimlaneLine=0;glass=0;fillColor=none;strokeColor=#000000;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="200" y="-260" width="120" height="130" as="geometry" />
@@ -626,8 +626,8 @@
         <mxCell id="MpfSzEpZkMOMQfDYO2Ls-257" value="UBICACION" style="swimlane;whiteSpace=wrap;html=1;perimeterSpacing=7;strokeWidth=2;swimlaneLine=0;glass=0;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1490" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="MpfSzEpZkMOMQfDYO2Ls-258" value="PK id&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; numero NN&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; calle NN&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; comuna NN&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ciudad NN" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MpfSzEpZkMOMQfDYO2Ls-257">
-          <mxGeometry x="10" y="20" width="110" height="90" as="geometry" />
+        <mxCell id="MpfSzEpZkMOMQfDYO2Ls-258" value="PK id&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; numero NN&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; calle NN&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; ciudad NN" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MpfSzEpZkMOMQfDYO2Ls-257">
+          <mxGeometry x="10" y="30" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MpfSzEpZkMOMQfDYO2Ls-259" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.049;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MpfSzEpZkMOMQfDYO2Ls-257">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
