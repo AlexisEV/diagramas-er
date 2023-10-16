@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T00:09:54.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Ml_TzRSOA0eo5JBWgRVn" version="22.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-16T00:16:18.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="kBqKZawpuDTF0Zec7K6-" version="22.0.4" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3290" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3240" dy="1729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="-480" y="-10" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="H4giXLRnW2gy8_b_BsiK-5" value="#item" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="H4giXLRnW2gy8_b_BsiK-4" vertex="1">
-          <mxGeometry x="10" y="50" width="50" height="30" as="geometry" />
+          <mxGeometry x="10" y="35" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H4giXLRnW2gy8_b_BsiK-6" value="EDITORIAL" style="swimlane;whiteSpace=wrap;html=1;perimeterSpacing=7;strokeWidth=2;swimlaneLine=0;glass=0;fillColor=none;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-480" y="-200" width="110" height="130" as="geometry" />
@@ -375,7 +375,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NUOY1IdHtPBoxNcX3U5L-12" value="tiene" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="-310" width="60" height="30" as="geometry" />
+          <mxGeometry x="-290" y="-310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUOY1IdHtPBoxNcX3U5L-13" value="clasifica a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-350" y="-350" width="60" height="30" as="geometry" />
